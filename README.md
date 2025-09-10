@@ -1,7 +1,10 @@
-# 🩺 Diabetes Prediction App
+# 🩺 Diabetes Prediction App (Improved Version)
 
-This project is a **Machine Learning-powered web app** that predicts whether a patient is likely to have diabetes based on medical data.  
-It uses **Scikit-Learn** for model training and **Streamlit** for the interactive web interface.  
+This project is an **improved version** of my earlier Diabetes Prediction project.  
+Unlike the previous version, this one includes **hyperparameter tuning, advanced evaluation metrics, and a Streamlit-based interactive web app** for real-time predictions.  
+
+It predicts whether a patient is likely to have diabetes based on medical data using **Machine Learning**.  
+The backend uses **Scikit-Learn**, while the frontend is powered by **Streamlit**.   
 
 ---
 
