@@ -25,10 +25,6 @@ It uses **Scikit-Learn** for model training and **Streamlit** for the interactiv
 ├── requirements.txt                   
 └── README.md                           
 
-
----
-
-
 ---
 
 ## ⚙️ Installation
