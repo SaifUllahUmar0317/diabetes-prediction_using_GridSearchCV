@@ -19,8 +19,8 @@ It uses **Scikit-Learn** for model training and **Streamlit** for the interactiv
 ## 📂 Project Structure
 ```text
 ├── diabetes.csv                       
-├── model_training.py / .ipynb         
-├── diabetes_app.py                    
+├── main.py / .ipynb         
+├── user_interface.py                    
 ├── Diabetes predictor model.pkl        
 ├── Scaler.pkl                          
 ├── requirements.txt                   
@@ -71,7 +71,7 @@ The trained model is saved as `Diabetes predictor model.pkl` and can be loaded f
 
 ## 👤 Author
 **Saif Ullah Umar**  
-📧 Email: saifullahumar0317@gmail.com  
+📧 Email: saifpakistani0317@gmail.com  
 🌐 GitHub: [SaifUllahUmar0317](https://github.com/SaifUllahUmar0317)  
 
 ---
