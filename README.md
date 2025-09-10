@@ -17,13 +17,13 @@ It uses **Scikit-Learn** for model training and **Streamlit** for the interactiv
 ---
 
 ## 📂 Project Structure
-├── diabetes.csv                       # Dataset  
-├── model_training.py / .ipynb         # Training script or notebook  
-├── diabetes_app.py                    # Streamlit web app  
-├── Diabetes predictor model.pkl       # Saved trained model  
-├── Scaler.pkl                         # Saved scaler  
-├── requirements.txt                   # Dependencies  
-└── README.md                          # Documentation  
+├── diabetes.csv                       
+├── model_training.py / .ipynb         
+├── diabetes_app.py                    
+├── Diabetes predictor model.pkl        
+├── Scaler.pkl                          
+├── requirements.txt                   
+└── README.md                           
 
 
 ---
